@@ -2,7 +2,7 @@
 
 Analysis code for "Hydroclimatic change regimes from joint annual and extreme precipitation trends and population exposure across the
 conterminous United States" (Silwal, Gautam, Parajuli, Regmi, Tamrakar, Thapa, Zhran, Dahal).
-The derived data (trend rasters, regime classifications, population layers, result tables) are on Zenodo: DOI to be added.
+The derived data (trend rasters, regime classifications, population layers, result tables) are on Zenodo: https://doi.org/10.5281/zenodo.23309946.
 The repository has the processing and statistics only. Figures and tables for the paper are made from the derived data and are not included.
 
 Data used: PRISM daily precipitation (Google Earth Engine, `OREGONSTATE/PRISM/ANd`), nClimGrid-Daily and GHCN-Daily (NOAA open data on AWS),
