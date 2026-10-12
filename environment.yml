@@ -1,0 +1,21 @@
+name: precip_trends
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy>=2.0
+  - scipy
+  - pandas
+  - rasterio
+  - geopandas
+  - pyproj
+  - shapely
+  - xarray
+  - netcdf4
+  - s3fs
+  - scikit-learn
+  - requests
+  - openpyxl
+  - pip
+  - pip:
+      - earthengine-api

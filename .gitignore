@@ -1,0 +1,7 @@
+data_cache/
+outputs/
+input/*
+!input/README.md
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
