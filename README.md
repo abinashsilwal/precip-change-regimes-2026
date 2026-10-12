@@ -1,7 +1,6 @@
 # Joint trends in annual and extreme precipitation across the conterminous United States, 1981-2025
 
-Analysis code for "Hydroclimatic change regimes from joint annual and extreme precipitation trends and population exposure across the
-conterminous United States" (Silwal, Gautam, Parajuli, Regmi, Tamrakar, Thapa, Zhran, Dahal).
+Analysis code for "Joint annual and extreme precipitation trends across the conterminous United States: hydroclimatic change regimes and population exposure" (Silwal, Gautam, Parajuli, Regmi, Tamrakar, Thapa, Zhran, Dahal).
 The derived data (trend rasters, regime classifications, population layers, result tables) are on Zenodo: https://doi.org/10.5281/zenodo.23309946.
 The repository has the processing and statistics only. Figures and tables for the paper are made from the derived data and are not included.
 
